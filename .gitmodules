@@ -1,3 +1,6 @@
 [submodule "simple-source"]
 	path = simple-source
 	url = ../simple-source
+[submodule "archive"]
+	path = archive
+	url = ../freebsd-archive
