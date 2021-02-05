@@ -1,0 +1,3 @@
+[submodule "simple-source"]
+	path = simple-source
+	url = ../simple-source
